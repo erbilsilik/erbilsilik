@@ -1,16 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Erbil</h1>
-<h3 align="center">I am a software engineer who love design and develop distributed, scalable, reliable and robust systems.</h3>
+<h3 align="center">I am a software engineer who loves to design and develop distributed, scalable, reliable, and robust systems.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erbilsilik" alt="erbilsilik" /></a> </p>
 
-- 🔭 I’m currently working on [Clean Architecture with Go Example](https://github.com/erbilsilik/getir-go-challange)
-
-- 🌱 I’m currently learning **Rust**
-
-- 📝 I regularly write articles on [https://erbilsilik.wordpress.com/](https://erbilsilik.wordpress.com/)
-
-- 💬 Ask me about **Software engineering, Software design, Architectural principles** 
+- 💬 Ask me about **Software engineering, Software Design, and Architectural principles** 
 
 - 📫 How to reach me **silik.erbil@gmail.com**
 
